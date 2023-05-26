@@ -3,7 +3,7 @@
 package Utils
 
 // Import file DataLogger untuk memanggil function Logger()
-import "./DataLogger"
+import "CHATBox_AI/Utils/DataLogger"
 
 /* Function CheckError
  * Fungsi ini saya buat untuk menampilkan error. 
