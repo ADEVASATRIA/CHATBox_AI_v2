@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 module CHATBox_AI/Utils
+=======
+module CHATBox_AI_v2/Utils
+>>>>>>> 355e203a54cc2c801f1cb0be20b18922dc52792b
 
 go 1.20
 
